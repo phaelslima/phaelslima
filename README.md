@@ -1,7 +1,7 @@
 <img align="right" alt="coding" src="https://github.com/phaelslima/phaelslima/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 
-### <samp>&gt; Fala dev, Sou Raphael Lima <img alt="hand wave" src="https://github.com/phaelslima/phaelslima/blob/main/assets/hand-wave.gif?raw=true" width="25" /></samp>
+## <samp>&gt; Fala dev, Sou Raphael Lima <img alt="hand wave" src="https://github.com/phaelslima/phaelslima/blob/main/assets/hand-wave.gif?raw=true" width="25" /></samp>
 
 <div style="margin-top: 10px;">
 
@@ -10,13 +10,14 @@
 
 </div>
 
-<br />
+Desenvolvedor full stack, graduado em Ciência da Computação - Unifil.
+
 
 **Sobre mim:**
 
 - 🔭 Atualmente trabalha no [Cidade Oferta](https://www.cidadeoferta.com.br);
 - 🌱 Tenho estudado design patterns e clean code;
-- 🤔 Posso colaborar com conhecimentos sobre programação React e React Native;
+- 🤔 Posso colaborar com conhecimentos sobre React e React Native;
 - 📫 Meu contato: [phaelslima@gmail.com](mailto:phaelslima@gmail.com);
 
 <br />
