@@ -15,7 +15,7 @@ Desenvolvedor full stack, graduado em Ciência da Computação - Unifil.
 
 **Sobre mim:**
 
-- 🔭 Atualmente trabalha no [Cidade Oferta](https://www.cidadeoferta.com.br);
+- 🔭 Atualmente trabalha no [DTI Digital](https://www.dtidigital.com.br);
 - 🌱 Tenho estudado design patterns e clean code;
 - 🤔 Posso colaborar com conhecimentos sobre React e React Native;
 - 📫 Meu contato: [phaelslima@gmail.com](mailto:phaelslima@gmail.com);
